@@ -1,1 +1,2 @@
 Just first line
+A new line added
