@@ -1,2 +1,4 @@
 Just first line
 A new line added
+
+A new line from a different branch
